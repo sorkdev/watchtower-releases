@@ -29,13 +29,6 @@ Or download the latest `watchtower` file from the [Releases](../../releases) pag
 
 New versions are published on the [Releases](../../releases) page, with notes for every release.
 
-## Support the project
-
-Watchtower is a free hobby project. If you enjoy it, you can support its development here:
-[Ko-fi](https://ko-fi.com/YOURNAME) *(replace with your link)*
-
-Donations are optional and don't unlock anything.
-
 ## Disclaimer
 
 Watchtower does not host, store or distribute any media content, and it does not come with any content sources. Users are solely responsible for anything they add or access through the app and for complying with the laws of their country.
