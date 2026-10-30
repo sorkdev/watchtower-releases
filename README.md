@@ -44,4 +44,4 @@ Movie and TV metadata is provided by [TMDB](https://www.themoviedb.org). This pr
 
 ## Contact
 
-For questions, feedback or removal requests: `YOUR_EMAIL` *(replace with your email)*
+For questions, feedback or removal requests: `sorkdev21@gmail.com` 
