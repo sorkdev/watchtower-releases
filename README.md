@@ -18,7 +18,7 @@ Watchtower helps you keep track of what to watch: personalized recommendations, 
 ## Install
 
 1. Install the **Downloader** app on your TV.
-2. Open Downloader and enter the code: `9885694` 
+2. Open Downloader and enter the code: `9882285` 
 3. Install the APK and open Watchtower.
 
 Or download the latest `watchtower` file from the [Releases](../../releases) page and sideload it.
