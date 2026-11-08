@@ -23,7 +23,7 @@ Watchtower helps you keep track of what to watch: personalized recommendations, 
 
 Or download the latest `watchtower` file from the [Releases](../../releases) page and sideload it.
 
-**Requirements:** Android TV / Google TV / Fire TV with Android 7.0 or newer *(adjust to your minSdk)*.
+**Requirements:** Android TV / Google TV / Fire TV with Android 7.0 or newer.
 
 ## Updates
 
